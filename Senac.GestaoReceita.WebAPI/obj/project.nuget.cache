@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJRoHf+JM9vG2aOSeWiD2BP40rjeLDdg2Izr5bxmgkeruLao6iiJ2OXYFLb9h8g7U+SeEWGI3D31qgGoNYPpMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\info09\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
